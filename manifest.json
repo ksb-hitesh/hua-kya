@@ -2,7 +2,7 @@
   "name": "Out Time",
   "short_name": "Out Time",
   "display": "standalone",
-  "start_url": "/",
+  "start_url": "./",
   "background_color": "#0f1115",
   "theme_color": "#0f1115"
 }
