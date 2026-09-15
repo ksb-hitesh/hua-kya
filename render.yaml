@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: hua-kya
+    runtime: static
+    staticPublishPath: .
